@@ -60,7 +60,7 @@ Two-phase training — freeze backbone first, then fine-tune last 3 blocks at lo
 
 ## Notebook
 
-Full implementation on Kaggle: [View Notebook](https://www.kaggle.com/code/samanvithkashyap/train-initial-architechure?scriptVersionId=299832708)
+Full implementation: [View Notebook](https://github.com/samanvithkashyap/wikiart-artextract/blob/main/train-initial-architechure.ipynb)
 
 ---
 
