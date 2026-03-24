@@ -82,7 +82,7 @@ This project is my submission baseline for the **HumanAI Foundation ArtExtract t
 
 ## Notebook
 
-Full implementation: [View Notebook](https://github.com/samanvithkashyap/wikiart-artextract/blob/main/train-initial-architechure.ipynb)
+Full implementation: [View Notebook](https://github.com/samanvithkashyap/wikiart-artextract/blob/main/task-1-convolutional-recurrent-architectures.ipynb)
 
 ---
 
